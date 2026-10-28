@@ -5,10 +5,10 @@ import requests
 GROUP_NAME = "AIE-TRF-8"
 
 # Вставь сюда свой токен (в кавычках)
-YANDEX_TOKEN = "y0__wgBENb4tKIDGNuWAyCSyJrIGTDCk6D5CNokxmbKKUxNngYEU8-EcKQwg8Rr"
+YANDEX_TOKEN = "ТВОЙ_ТОКЕН"
 
 # Текст, который был на картинке
-TEXT = "Салют"
+TEXT = "MyCat"
 
 # --- 1. Загружаем картинку с cataas.com в память ---
 print("Скачиваем картинку с cataas.com...")
